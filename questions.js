@@ -2080,4 +2080,783 @@ const questions = [
     C: "Frequency alone can be normal in the first trimester, but dysuria makes infection more likely."
   }
 },
+{
+  question: "During examination of newborn reflexes, the baby is held prone and suspended over the examiner's arm. The baby momentarily holds the head level with the body and flexes the limbs. Which reflex or test is being assessed?",
+  options: {
+    A: "Tonic neck reflex",
+    B: "Ventral suspension",
+    C: "Rooting reflex"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Ventral suspension is assessed by holding the baby prone while supporting the abdomen. A normal newborn briefly keeps the head in line with the body and flexes the limbs.",
+  rationalesIncorrect: {
+    A: "The tonic neck reflex is seen when the baby's head is turned to one side, causing extension of the limbs on the face side and flexion on the opposite side.",
+    C: "The rooting reflex occurs when the baby turns the head towards a touched cheek or mouth area in search of the nipple."
+  }
+},
+
+{
+  question: "In labour, uterine contractions commence in which part of the uterus?",
+  options: {
+    A: "Fundus",
+    B: "Body",
+    C: "Cornua"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Uterine contractions begin from pacemaker areas near the uterine cornua in the upper uterus and spread downward. This produces fundal dominance, helping to push the foetus towards the cervix.",
+  rationalesIncorrect: {
+    A: "The fundus is the dominant contracting part of the uterus, but the more specific point of origin is near the cornua.",
+    B: "The body of the uterus contracts, but contractions do not primarily commence there."
+  }
+},
+
+{
+  question: "In midwifery, the pelvis is considered clinically adequate when:",
+  options: {
+    A: "The presenting part is more than halfway through the pelvic cavity",
+    B: "The woman has a broad sacral area",
+    C: "The widest part of the fetal head has entered the pelvic brim"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "A pelvis is considered clinically adequate when the widest presenting diameter of the fetal head is able to pass through the pelvic brim, indicating engagement.",
+  rationalesIncorrect: {
+    A: "Descent into the pelvic cavity is useful, but pelvic adequacy is first shown by successful passage through the pelvic brim.",
+    B: "A broad sacral area may suggest a favourable pelvis, but it does not alone confirm pelvic adequacy."
+  }
+},
+
+{
+  question: "Which measure is most important in preventing infection in midwifery practice?",
+  options: {
+    A: "Checking vital signs regularly",
+    B: "Universal precautions",
+    C: "Antibiotic cones"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Universal precautions reduce transmission of infection by assuming that all blood and body fluids may be infectious. This includes hand hygiene, use of gloves, safe disposal of sharps, and aseptic technique.",
+  rationalesIncorrect: {
+    A: "Checking vital signs helps detect illness or infection, but it does not directly prevent infection.",
+    C: "Antibiotics should not be used routinely to prevent infection unless clearly indicated."
+  }
+},
+
+{
+  question: "In a pregnant woman with polyhydramnios, which of the following is least likely to occur during labour?",
+  options: {
+    A: "Cord prolapse",
+    B: "Postpartum haemorrhage",
+    C: "Unstable lie"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Cord prolapse and unstable lie can occur during labour because excessive amniotic fluid prevents stable engagement of the presenting part. Postpartum haemorrhage is a complication after delivery, not strictly during labour.",
+  rationalesIncorrect: {
+    A: "Polyhydramnios increases the risk of cord prolapse, especially after rupture of membranes.",
+    C: "Excess amniotic fluid allows the foetus to move freely, increasing the risk of unstable lie."
+  }
+},
+
+{
+  question: "Which test is used during newborn examination to detect congenital hip dysplasia?",
+  options: {
+    A: "Pavlik test",
+    B: "Barlow's test",
+    C: "Potter's test"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Barlow's test is used during newborn examination to detect hip instability or developmental dysplasia of the hip. The Barlow and Ortolani manoeuvres are standard clinical screening tests for neonatal hip dysplasia.",
+  rationalesIncorrect: {
+    A: "Pavlik is associated with the Pavlik harness, which is used in treatment, not as the main screening test.",
+    C: "Potter's test is not the standard test for congenital hip dysplasia."
+  }
+},
+
+{
+  question: "Which of the following is not a function of oestrogen?",
+  options: {
+    A: "It causes the development of secondary sex characteristics",
+    B: "It causes an increase in body temperature during ovulation",
+    C: "It promotes regeneration of the endometrium after menstruation"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "The rise in basal body temperature after ovulation is mainly due to progesterone, not oestrogen. Oestrogen is mainly responsible for development of female secondary sex characteristics and regeneration of the endometrium.",
+  rationalesIncorrect: {
+    A: "Development of secondary sex characteristics is a true function of oestrogen.",
+    C: "Regeneration or proliferation of the endometrium after menstruation is a true function of oestrogen."
+  }
+},
+
+{
+  question: "In women with chronic hypertension during pregnancy, antihypertensive medications primarily seek to reduce:",
+  options: {
+    A: "Fetal intrauterine growth restriction",
+    B: "Maternal cardiovascular risk",
+    C: "Placental abruption"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Antihypertensive medication in pregnancy primarily protects the mother from complications of severe hypertension, including stroke and cardiovascular complications. The main goal is maternal blood pressure control.",
+  rationalesIncorrect: {
+    A: "Hypertension can be associated with fetal growth restriction, but antihypertensive drugs are mainly given to control maternal blood pressure and reduce maternal risk.",
+    C: "Chronic hypertension increases the risk of placental abruption, but the primary reason for medication is maternal blood pressure control."
+  }
+},
+
+{
+  question: "A baby presents with moist papular or vesicular skin rash in the axillae, neck, perineum, and umbilical region. How would this rash be explained to the mother?",
+  options: {
+    A: "Cutaneous candidiasis",
+    B: "Pseudomembranous candidiasis",
+    C: "Chlamydia infection"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Cutaneous candidiasis affects moist skin folds such as the neck, axillae, groin, perineum, and umbilical area. It may appear as a red, moist papular or vesicular rash.",
+  rationalesIncorrect: {
+    B: "Pseudomembranous candidiasis refers to oral thrush, which presents with white patches in the mouth.",
+    C: "Chlamydia infection in newborns commonly presents with conjunctivitis or pneumonia, not moist skin-fold rashes."
+  }
+},
+
+{
+  question: "When which male reproductive organ is destroyed, sperm production is reduced?",
+  options: {
+    A: "Testes",
+    B: "Vas deferens",
+    C: "Seminal vesicles"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "The testes are responsible for sperm production. Damage to the testes can therefore reduce or stop sperm production.",
+  rationalesIncorrect: {
+    B: "The vas deferens transports sperm from the epididymis but does not produce sperm.",
+    C: "The seminal vesicles produce seminal fluid, but they do not produce sperm cells."
+  }
+},
+
+{
+  question: "Increased frequency of micturition during labour is most commonly associated with:",
+  options: {
+    A: "Breech presentation",
+    B: "Brow presentation",
+    C: "Occipito-posterior position"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Occipito-posterior position can cause pressure against the sacrum and bladder region, leading to backache, slow labour, and increased frequency of micturition.",
+  rationalesIncorrect: {
+    A: "Breech presentation is associated with the buttocks or feet presenting first, but frequency of micturition is not the classic feature.",
+    B: "Brow presentation affects engagement and labour progress, but it is not the most common association with frequent micturition."
+  }
+},
+
+{
+  question: "In-vitro fertilisation in patients with primary ovarian failure due to Turner's syndrome is not recommended because of the risk of which complication during pregnancy?",
+  options: {
+    A: "Aortic rupture",
+    B: "Bowel rupture",
+    C: "Uterine rupture"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Turner syndrome is associated with cardiovascular abnormalities, and pregnancy can increase the risk of aortic dissection or rupture. Assisted reproduction requires careful cardiovascular evaluation and may be contraindicated in high-risk patients.",
+  rationalesIncorrect: {
+    B: "Bowel rupture is not the major pregnancy risk associated with Turner syndrome.",
+    C: "Uterine rupture is more associated with uterine scars or obstructed labour, not Turner syndrome."
+  }
+},
+
+{
+  question: "A 35-year-old breastfeeding mother wants to know the earliest time she can start combined oral contraceptive pills postpartum from the options listed. Which is the best answer?",
+  options: {
+    A: "2 days",
+    B: "7 days",
+    C: "21 days"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Among the options, 21 days is the best answer because combined hormonal contraceptives should not be used before 21 days postpartum due to increased thromboembolism risk. For breastfeeding mothers, many guidelines are more cautious and may recommend delaying combined hormonal methods further depending on breastfeeding status and risk factors.",
+  rationalesIncorrect: {
+    A: "Two days postpartum is too early because the risk of blood clots is high, and combined hormonal contraceptives are contraindicated before 21 days postpartum.",
+    B: "Seven days postpartum is also too early for combined oral contraceptives."
+  }
+},
+
+{
+  question: "Klinefelter syndrome is an XXY abnormality that affects boys. At what stage is it normally diagnosed?",
+  options: {
+    A: "At puberty",
+    B: "At birth",
+    C: "In utero"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Klinefelter syndrome is often recognised at puberty when features such as small testes, delayed or incomplete puberty, tall stature, reduced facial hair, or infertility become more obvious.",
+  rationalesIncorrect: {
+    B: "Many boys with Klinefelter syndrome appear normal at birth, so it is often missed.",
+    C: "It can be detected prenatally through genetic testing, but this is not when it is normally diagnosed in many cases."
+  }
+},
+
+{
+  question: "How would Klumpke's palsy be identified? I. Paralysis of the shoulder and arm. II. Wrist and hands are paralysed. III. Wrist drop and no grasp reflex. IV. Muscle weakness and atrophy.",
+  options: {
+    A: "I, II and IV",
+    B: "I and II",
+    C: "II, III and IV"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Klumpke's palsy affects the lower brachial plexus, mainly C8–T1. It commonly affects the forearm, wrist, and hand, causing weak grip, absent grasp reflex, wrist problems, and muscle weakness.",
+  rationalesIncorrect: {
+    A: "This includes shoulder and arm paralysis, which is more typical of Erb's palsy affecting the upper brachial plexus.",
+    B: "This also includes shoulder and arm paralysis and omits important lower brachial plexus features such as absent grasp reflex and muscle weakness."
+  }
+},
+
+{
+  question: "Knowledge of the inclination of the pelvis is applied in the care of the pregnant woman mostly during:",
+  options: {
+    A: "Puerperium",
+    B: "Labour",
+    C: "Antenatal period"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Knowledge of pelvic inclination is especially useful during labour because maternal positioning can influence descent of the presenting part and the mechanics of delivery.",
+  rationalesIncorrect: {
+    A: "Pelvic inclination is not mainly applied during the puerperium.",
+    C: "Pelvic assessment may be done antenatally, but the practical application of pelvic inclination is most important during labour."
+  }
+},
+
+{
+  question: "A 20-year-old woman with HIV acquired through blood transfusion has negative initial cervical cytology. At what age is co-testing with cervical cytology and HPV testing recommended?",
+  options: {
+    A: "Age 30",
+    B: "Age 25",
+    C: "Age 21"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "For people with HIV who are younger than 30, cervical cytology is the primary screening method. HPV co-testing is generally used from age 30 onward, not at age 20 or 21.",
+  rationalesIncorrect: {
+    B: "Age 25 is not the usual age for HPV co-testing in HIV-positive women.",
+    C: "Cervical cytology may begin at age 21 in people with HIV, but co-testing is generally not the preferred method before age 30."
+  }
+},
+
+{
+  question: "A premature male newborn has no testicles detected in the scrotum. How should the midwife document this finding?",
+  options: {
+    A: "Interstitial cryptorch",
+    B: "Spermatic cord",
+    C: "Cryptorchism"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Cryptorchism, also called cryptorchidism, means undescended testis. It is more common in premature male babies.",
+  rationalesIncorrect: {
+    A: "Interstitial cryptorch is not the correct term for absent testes in the scrotum.",
+    B: "The spermatic cord is an anatomical structure, not the diagnosis."
+  }
+},
+
+{
+  question: "Deep transverse arrest in prolonged labour occurs when the fetal head is trapped by the:",
+  options: {
+    A: "Ischial spine",
+    B: "Sacrococcygeal joint",
+    C: "Iliac spine"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Deep transverse arrest occurs at the level of the midpelvis, around the ischial spines. The fetal head fails to rotate and descend properly at this level.",
+  rationalesIncorrect: {
+    B: "The sacrococcygeal joint is posterior and lower in the pelvis, not the usual site of deep transverse arrest.",
+    C: "The iliac spines are part of the pelvis but are not the landmark involved in deep transverse arrest."
+  }
+},
+
+{
+  question: "A Para 4 mother with a 6-month-old baby reports irregular menstruation after delivery. If she is breastfeeding, this is most likely due to:",
+  options: {
+    A: "High level of prolactin",
+    B: "Complication of labour",
+    C: "Hormonal imbalance"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "During breastfeeding, prolactin remains high and can suppress ovulation. This may cause absent or irregular menstruation during the postpartum period.",
+  rationalesIncorrect: {
+    B: "Irregular menstruation after delivery is usually hormonal, not automatically a labour complication.",
+    C: "Hormonal imbalance is too general. The specific hormone commonly responsible during breastfeeding is prolactin."
+  }
+},
+
+{
+  question: "A 32-year-old G4P2 at 35 weeks reports decreased fetal movement. The non-stress test is reactive, and ultrasound shows reassuring fetal tone, breathing, movement, and amniotic fluid status. What is the next step?",
+  options: {
+    A: "Induction of labour",
+    B: "Reassure, rest, and follow-up",
+    C: "Follow-up evaluation of the percentile of amniotic fluid"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "A reactive non-stress test with reassuring fetal tone, breathing, movement, and amniotic fluid assessment suggests that the foetus is currently well. The appropriate step is reassurance, rest, follow-up, and advice to return if fetal movements reduce again.",
+  rationalesIncorrect: {
+    A: "Induction is not indicated when fetal assessment is reassuring at 35 weeks.",
+    C: "Amniotic fluid has already been assessed as part of the evaluation. If it is normal, reassurance and follow-up are appropriate."
+  }
+},
+
+{
+  question: "Squatting during the second stage of labour facilitates delivery because:",
+  options: {
+    A: "Socially, it is the accepted posture",
+    B: "The woman feels more comfortable",
+    C: "There is an increase in the outlet dimension"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Squatting during the second stage can increase pelvic outlet dimensions and use gravity to assist descent and delivery of the baby.",
+  rationalesIncorrect: {
+    A: "Social acceptance may vary, but the clinical reason is improved pelvic outlet space.",
+    B: "Comfort may be a benefit, but the main obstetric advantage is increased outlet dimension."
+  }
+},
+
+{
+  question: "A puerperal mother asks where milk is stored in the breast. What is the best description?",
+  options: {
+    A: "A central duct into which the tubules run",
+    B: "Small ducts which connect the alveoli",
+    C: "Widened-out portions beneath the areola"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Milk is stored temporarily in widened areas of the lactiferous ducts known as lactiferous sinuses or ampullae, located beneath the areola.",
+  rationalesIncorrect: {
+    A: "This describes a duct pathway but not the main milk storage area.",
+    B: "Small ducts transport milk from the alveoli but are not the main storage area."
+  }
+},
+
+{
+  question: "A pregnant woman has raised alpha-fetoprotein in the amniotic fluid. Which condition is not typically indicated by this finding?",
+  options: {
+    A: "Anencephaly",
+    B: "Spina bifida",
+    C: "Turner's syndrome"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Raised alpha-fetoprotein is associated with open neural tube defects such as anencephaly and spina bifida. Turner's syndrome is a chromosomal disorder and is not classically associated with raised amniotic fluid alpha-fetoprotein.",
+  rationalesIncorrect: {
+    A: "Anencephaly is an open neural tube defect and can cause raised alpha-fetoprotein.",
+    B: "Open spina bifida can also cause raised alpha-fetoprotein."
+  }
+},
+
+{
+  question: "A baby develops jaundice on the third postnatal day. What is the common explanation for this jaundice?",
+  options: {
+    A: "Medication taken by the mother",
+    B: "Exposure to morning sun",
+    C: "Increased red blood cell breakdown"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Physiological jaundice commonly appears after the first 24 hours and may peak around day 3–5. It occurs because newborns have increased red blood cell breakdown and an immature liver that clears bilirubin slowly.",
+  rationalesIncorrect: {
+    A: "Some medicines may affect newborns, but this is not the common explanation for jaundice on day 3.",
+    B: "Exposure to morning sun does not cause neonatal jaundice."
+  }
+},
+
+{
+  question: "A 34-year-old G1P0 at 31 weeks presents with painful contractions every 5 minutes. There is no vaginal bleeding, leakage of fluid, or discharge, and fetal movement is good. What is the best management?",
+  options: {
+    A: "Refer her to the gynaecologist",
+    B: "Administer intravenous ampicillin and gentamicin",
+    C: "Administer intravenous infusion"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Painful contractions at 31 weeks suggest possible preterm labour. She needs urgent assessment by the obstetric or gynaecology team for confirmation of labour, fetal assessment, and possible interventions such as corticosteroids, tocolysis, magnesium sulfate, or antibiotics if indicated.",
+  rationalesIncorrect: {
+    B: "Antibiotics are not automatically indicated because there is no clear evidence of infection, ruptured membranes, or chorioamnionitis in the stem.",
+    C: "Intravenous fluids alone do not adequately manage possible preterm labour."
+  }
+},
+
+{
+  question: "A newborn has caput succedaneum after delivery. How should this be explained to the mother?",
+  options: {
+    A: "It is a swelling that does not cross a suture line but pits on pressure",
+    B: "It is a swelling located at the base of the hairline due to excessive pressure in the birth canal",
+    C: "It is a swelling of the scalp caused by pressure from the uterus or vaginal wall during delivery"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Caput succedaneum is swelling of the newborn's scalp caused by pressure during labour and delivery. It is typically soft, may pit on pressure, and can cross suture lines.",
+  rationalesIncorrect: {
+    A: "This is incorrect because caput succedaneum can cross suture lines. A swelling that does not cross suture lines is more suggestive of cephalhaematoma.",
+    B: "Caput is usually on the presenting part of the scalp, not specifically at the base of the hairline."
+  }
+},
+
+{
+  question: "A 30-week pregnant multigravida complains of severe pain when walking. What is the most likely explanation?",
+  options: {
+    A: "She may be having a malpresenting baby",
+    B: "Overstretching of the ligaments due to the effect of relaxin",
+    C: "Pressure from the presenting part on the sacrum"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "During pregnancy, relaxin and other hormonal changes loosen pelvic ligaments. In a multigravida, this may cause pelvic girdle pain or difficulty walking, especially in late pregnancy.",
+  rationalesIncorrect: {
+    A: "Malpresentation does not usually present mainly as severe pain when walking.",
+    C: "Pressure from the presenting part on the sacrum may cause discomfort later in pregnancy or labour, but the ligament-stretching effect of relaxin better explains walking pain."
+  }
+},
+
+{
+  question: "A 10-week pregnant woman presents with frequency of micturition and dysuria. What should the midwife anticipate?",
+  options: {
+    A: "Warm sitz bath will solve her problem",
+    B: "There is a urinary infection",
+    C: "Frequency of micturition is normal in the first trimester"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Frequency of micturition can be normal in early pregnancy, but the presence of dysuria suggests urinary tract infection. She should be assessed and managed appropriately.",
+  rationalesIncorrect: {
+    A: "A warm sitz bath may provide comfort for some perineal symptoms but will not treat a urinary infection.",
+    C: "Frequency alone can be normal in the first trimester, but dysuria makes infection more likely."
+  }
+},
+
+{
+  question: "A 29-week pregnant woman ate a sandwich made with meat contaminated with E. coli. She is asymptomatic with no fever, chills, body aches, or contractions. What is the next best step?",
+  options: {
+    A: "Blood and stool cultures with treatment if positive",
+    B: "Stool cultures and treatment",
+    C: "No testing or treatment unless she develops symptoms"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Since she is asymptomatic, there is no need for immediate testing or treatment. She should be reassured, educated to observe for symptoms such as diarrhoea, fever, abdominal cramps, vomiting, or contractions, and told to report immediately if they occur.",
+  rationalesIncorrect: {
+    A: "Blood and stool cultures with treatment are unnecessary when she has no symptoms.",
+    B: "Stool cultures and treatment should not be started just because of exposure without symptoms or positive clinical findings."
+  }
+},
+
+{
+  question: "A baby is suspected to have Horner's syndrome. Which of the following findings is not used to confirm the diagnosis?",
+  options: {
+    A: "Drooping eyelid",
+    B: "Swelling on the affected part",
+    C: "Constriction of pupil"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Horner's syndrome is associated with drooping of the eyelid and constriction of the pupil on the affected side. Swelling is not a typical feature.",
+  rationalesIncorrect: {
+    A: "Drooping eyelid, also called ptosis, is a classic sign of Horner's syndrome.",
+    C: "Constriction of the pupil, also called miosis, is another classic sign of Horner's syndrome."
+  }
+},
+
+{
+  question: "A postnatal mother complains of leakage of urine although she does not feel any urge to urinate. What is the most likely diagnosis?",
+  options: {
+    A: "True incontinence",
+    B: "Stress incontinence",
+    C: "Acute incontinence"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "True incontinence refers to continuous or involuntary leakage of urine without the normal urge to urinate. The key clue is that she leaks urine even though she does not feel the urge.",
+  rationalesIncorrect: {
+    B: "Stress incontinence occurs during coughing, sneezing, laughing, or lifting due to increased abdominal pressure.",
+    C: "Acute incontinence is not the best classification for painless leakage without urge in this context."
+  }
+},
+
+{
+  question: "A sexually active woman presents with mild lower abdominal pain, fever, cervical tenderness, uterine and adnexal tenderness, mucopurulent vaginal discharge, elevated inflammatory markers, and gram-negative diplococci on culture. What is the most likely diagnosis?",
+  options: {
+    A: "Cervical dysplasia",
+    B: "Tubo-ovarian abscess",
+    C: "Acute salpingitis"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "The symptoms suggest pelvic inflammatory disease involving the fallopian tubes. Lower abdominal pain, fever, cervical motion tenderness, adnexal tenderness, mucopurulent discharge, and gonococcal infection all support acute salpingitis.",
+  rationalesIncorrect: {
+    A: "Cervical dysplasia is a precancerous cervical change and does not usually present with fever, pelvic tenderness, and purulent discharge.",
+    B: "Tubo-ovarian abscess is a more severe complication of pelvic inflammatory disease and is usually associated with a pelvic mass or severe illness, which is not stated here."
+  }
+},
+
+{
+  question: "Which two signs best support a diagnosis of Down's syndrome in a newborn?",
+  options: {
+    A: "Clenched fist with overriding fingers",
+    B: "Short sternum and club feet",
+    C: "Short neck with flattened facial features"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Down's syndrome commonly presents with features such as flat facial profile, short neck, upward slanting eyes, low muscle tone, and single palmar crease.",
+  rationalesIncorrect: {
+    A: "Clenched fist with overriding fingers is more typical of Edwards syndrome.",
+    B: "Short sternum and club feet are also more suggestive of Edwards syndrome rather than Down's syndrome."
+  }
+},
+
+{
+  question: "What is the best period to prepare mothers for exclusive breastfeeding?",
+  options: {
+    A: "Antenatal period",
+    B: "Puberty",
+    C: "Postpartum period"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "The antenatal period is the best time to prepare mothers for breastfeeding. Education before delivery helps mothers understand exclusive breastfeeding, positioning, attachment, milk production, and common breastfeeding challenges.",
+  rationalesIncorrect: {
+    B: "Puberty is too early and not the practical period for preparing a pregnant woman for breastfeeding.",
+    C: "Breastfeeding support continues after delivery, but preparation should begin before birth."
+  }
+},
+
+{
+  question: "A student midwife puts the placenta aside after delivery, cleans the mother, and congratulates her. What should the observer prompt her to do?",
+  options: {
+    A: "Congratulate her for her swiftness in cleaning and making the woman comfortable",
+    B: "Prompt her that the placenta was not inspected",
+    C: "Prompt her that she did not ask the woman to empty her bladder"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "After the placenta is delivered, it must be inspected for completeness of the lobes and membranes. Failure to inspect the placenta may lead to missed retained placental tissue, which can cause postpartum haemorrhage or infection.",
+  rationalesIncorrect: {
+    A: "Comfort is important, but she omitted a critical safety step.",
+    C: "Emptying the bladder is important, but the immediate omitted action after placental delivery is placental inspection."
+  }
+},
+
+{
+  question: "During antenatal assessment, a bulging is observed when the client bears down. What is the most likely explanation?",
+  options: {
+    A: "It is a normal expectation of the perineum when there is pressure from within",
+    B: "The woman has weak perineal floor muscles",
+    C: "Based on the woman's weight, it may be normal"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Bulging on bearing down suggests weakness of the pelvic floor muscles. Weak pelvic support may predispose the woman to prolapse or urinary incontinence.",
+  rationalesIncorrect: {
+    A: "Bulging during assessment should not be dismissed as normal.",
+    C: "Weight may contribute to pelvic floor strain, but the direct explanation is weak pelvic floor muscles."
+  }
+},
+
+{
+  question: "A midwife teaches students to place the baby on the mother's abdomen immediately after birth. This is done to: I. Ensure that the mother sees the baby first. II. See if the curve of Carus is not straightened. III. Prevent injury to the perineum.",
+  options: {
+    A: "I only",
+    B: "II and III",
+    C: "I and II"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Placing the baby on the mother's abdomen immediately after birth allows the mother to see and receive the baby early. In delivery technique, the baby should also be handled in a way that follows the normal pelvic curve rather than being pulled improperly.",
+  rationalesIncorrect: {
+    A: "This is partly correct, but it does not include the delivery technique consideration.",
+    B: "Preventing perineal injury is mainly related to controlled delivery of the head and shoulders, not simply placing the baby on the abdomen after delivery."
+  }
+},
+
+{
+  question: "Which functioning part of the ovary contains ovarian follicles at different stages of development and is surrounded by stroma?",
+  options: {
+    A: "Medulla",
+    B: "Ampulla",
+    C: "Cortex"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "The ovarian cortex contains ovarian follicles at different stages of development. It lies beneath the outer surface and is supported by ovarian stroma.",
+  rationalesIncorrect: {
+    A: "The medulla is the central part of the ovary containing blood vessels, nerves, and connective tissue, but it is not the main follicle-containing area.",
+    B: "The ampulla is part of the fallopian tube, not the ovary."
+  }
+},
+
+{
+  question: "A woman in the first stage of labour asks what she can do to prevent pelvic floor trauma. Which actions are appropriate? I. Empty bladder every hour. II. Adopt kneeling position when there is the urge to bear down. III. Perform pelvic floor exercises. IV. Lie on her side when there is the urge to bear down.",
+  options: {
+    A: "I, II and IV",
+    B: "I, II and III",
+    C: "I, III and IV"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Emptying the bladder prevents obstruction to fetal descent and reduces pressure on pelvic tissues. Pelvic floor exercises strengthen the muscles, and lying on the side when there is an urge to bear down can help reduce unnecessary pressure and trauma during the first stage.",
+  rationalesIncorrect: {
+    A: "This includes kneeling with the urge to bear down, but early bearing down in the first stage should be discouraged because it may cause cervical swelling and pelvic floor trauma.",
+    B: "This also includes kneeling with the urge to bear down and excludes side-lying, which can help reduce unnecessary pressure."
+  }
+},
+
+{
+  question: "Where are the living ligatures located?",
+  options: {
+    A: "Vagina",
+    B: "Uterus",
+    C: "Uterine"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "The living ligatures refer to the interlacing muscle fibres of the uterus. After delivery, these fibres contract and compress the blood vessels to control bleeding.",
+  rationalesIncorrect: {
+    A: "The vagina does not contain the uterine muscle fibres known as living ligatures.",
+    C: "Uterine is an adjective, not the correct anatomical location."
+  }
+},
+
+{
+  question: "Moulding is a protective mechanism of the delicate fetal brain. When moulding occurs, all the following happen except:",
+  options: {
+    A: "Elongation of the area at right angle",
+    B: "No change occurs in the size of the hand",
+    C: "Change in the shape of the fetal head"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Moulding refers to changes in the shape of the fetal head as the skull bones overlap during labour. It affects the fetal head, not the hand.",
+  rationalesIncorrect: {
+    A: "Moulding can cause alteration and elongation of the fetal head shape.",
+    C: "Change in the shape of the fetal head is exactly what happens during moulding."
+  }
+},
+
+{
+  question: "A 2-week-old baby has a small painless swelling on the neck after excessive traction or twisting during labour. What is the likely diagnosis?",
+  options: {
+    A: "Erb's palsy",
+    B: "Wry neck",
+    C: "Bell's palsy"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "A painless swelling in the neck after difficult delivery or excessive traction may be due to injury of the sternocleidomastoid muscle, leading to congenital muscular torticollis, also called wry neck.",
+  rationalesIncorrect: {
+    A: "Erb's palsy affects the upper brachial plexus and presents with weakness or paralysis of the shoulder and arm.",
+    C: "Bell's palsy affects the facial nerve and causes facial weakness, not a neck swelling."
+  }
+},
+
+{
+  question: "A 38-year-old woman with a mechanical mitral valve and chronic atrial fibrillation has excessive intermenstrual uterine bleeding. She has completed childbearing. What is the best treatment option?",
+  options: {
+    A: "Hysterectomy",
+    B: "Depo-Provera",
+    C: "Endometrial ablation"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Endometrial ablation is suitable for women with heavy abnormal uterine bleeding who have completed childbearing. It is less invasive than hysterectomy and avoids major surgery in a patient with significant cardiac disease.",
+  rationalesIncorrect: {
+    A: "Hysterectomy is effective but carries higher surgical and anaesthetic risk, especially in a patient with a mechanical valve and atrial fibrillation.",
+    B: "Depo-Provera may reduce bleeding in some women, but in this case she has completed childbearing and needs a more definitive non-major surgical option."
+  }
+},
+
+{
+  question: "A 38-year-old G1P0 at 12 weeks has a desired pregnancy and a positive cell-free fetal DNA result for trisomy 16. What is the most appropriate next step?",
+  options: {
+    A: "Repeat cell-free fetal DNA screening",
+    B: "Chorionic villus sampling",
+    C: "Termination of pregnancy"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Cell-free fetal DNA is a screening test, not a diagnostic test. A positive result should be confirmed with diagnostic testing. At 12 weeks, chorionic villus sampling is an appropriate diagnostic option.",
+  rationalesIncorrect: {
+    A: "Repeating another screening test does not confirm the diagnosis.",
+    C: "The pregnancy is desired, and termination should not be considered based on a screening result alone."
+  }
+},
+
+{
+  question: "A pregnant woman has vulval varicose veins. Which explanation is most appropriate?",
+  options: {
+    A: "There is relaxation of the blood vessels",
+    B: "Diabetes",
+    C: "Sitting down for a long period"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Pregnancy hormones relax the walls of blood vessels, and the growing uterus increases pressure on pelvic veins. These changes can lead to vulval varicosities.",
+  rationalesIncorrect: {
+    B: "Diabetes is not a direct common cause of vulval varicose veins in pregnancy.",
+    C: "Prolonged sitting may worsen venous pooling, but pregnancy-related vascular relaxation is the better answer."
+  }
+},
+
+{
+  question: "A breastfeeding mother one day after delivery has fever, cough, cold, loss of appetite, and muscle aches. What is the best option for mother and child if the mother is stable?",
+  options: {
+    A: "Carry out laboratory investigation",
+    B: "Conservative management of symptoms",
+    C: "Maternal-neonatal separation"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "The symptoms suggest a flu-like illness. If the mother is stable, she can continue breastfeeding with good hand hygiene, cough etiquette, and supportive care. Routine separation of mother and baby is not the best option unless the mother is severely ill or there is a specific infection-control indication.",
+  rationalesIncorrect: {
+    A: "Investigations may be needed if symptoms are severe or diagnosis is unclear, but the best general option here is supportive management while continuing breastfeeding safely.",
+    C: "Separation is usually avoided because breastfeeding and bonding are important, and infection prevention measures can be used."
+  }
+},
+
+{
+  question: "A fair-coloured petite primigravida weighing 48 kg comes for ANC booking. Which type of pelvis is she most likely to have?",
+  options: {
+    A: "Anthropoid",
+    B: "Justo minor",
+    C: "Platypelloid"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "A petite woman with low body weight may have a generally small but normally shaped pelvis. This is described as a justo minor pelvis.",
+  rationalesIncorrect: {
+    A: "An anthropoid pelvis has a long anteroposterior diameter and is not mainly described by small body size.",
+    C: "A platypelloid pelvis is flat with a shortened anteroposterior diameter, not simply a small pelvis."
+  }
+},
+
+{
+  question: "A ruptured tubal pregnancy is an obstetric emergency because the woman can die from hypovolaemic shock. This is mainly because:",
+  options: {
+    A: "The fallopian tubes are mainly made up of blood vessels",
+    B: "The uterine and ovarian arteries provide a rich blood supply during pregnancy",
+    C: "Ruptured ectopic pregnancy inhibits venous return"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "The fallopian tube receives blood supply from branches of the uterine and ovarian arteries. When a tubal pregnancy ruptures, severe internal bleeding may occur, leading to hypovolaemic shock.",
+  rationalesIncorrect: {
+    A: "This is anatomically incorrect. The fallopian tubes contain muscular, mucosal, and connective tissue layers, not mainly blood vessels.",
+    C: "The major danger is haemorrhage, not inhibition of venous return."
+  }
+},
+
+{
+  question: "A 12-week pregnant woman has acute retention of urine, and ultrasound shows a retroverted uterus. What is the best management?",
+  options: {
+    A: "Terminate the pregnancy because the uterus cannot rise out of the hollow of the sacrum",
+    B: "Prepare the client for surgery to reposition the uterus in the anteverted position",
+    C: "Pass a urethral catheter to drain the urine, and the uterus will rise out of the pelvis"
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "A retroverted gravid uterus can cause urinary retention around the end of the first trimester. The immediate management is bladder drainage with a urethral catheter. As pregnancy progresses, the uterus usually rises out of the pelvis.",
+  rationalesIncorrect: {
+    A: "Termination of pregnancy is not indicated.",
+    B: "Surgery is not the first-line management."
+  }
+},
+
+{
+  question: "Which advice is suitable for a mother whose baby has diaper rash? I. Wash and dry the soiled area. II. Change diaper when soiled. III. Expose the rash to air. IV. Apply baby powder to the rash.",
+  options: {
+    A: "II, III and IV",
+    B: "I, II and III",
+    C: "I and II"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Diaper rash care includes keeping the area clean and dry, changing diapers promptly when soiled, and exposing the area to air when possible. These reduce moisture and irritation.",
+  rationalesIncorrect: {
+    A: "This includes baby powder, which is not recommended because it may irritate the skin and can be inhaled by the baby.",
+    C: "Washing, drying, and changing diapers are correct, but exposing the rash to air is also helpful."
+  }
+},
+
+{
+  question: "What is the best medication to apply to the newborn cord before discharge?",
+  options: {
+    A: "Methylated spirit",
+    B: "Chlorhexidine",
+    C: "Alcohol rub"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Chlorhexidine is commonly recommended for newborn cord care because it helps reduce bacterial contamination and prevents cord infection, especially in settings where infection risk is significant.",
+  rationalesIncorrect: {
+    A: "Methylated spirit has been used traditionally, but chlorhexidine is preferred for cord infection prevention.",
+    C: "Alcohol rub is mainly used for hand hygiene and is not the best medication for newborn cord care."
+  }
+},
 ];
